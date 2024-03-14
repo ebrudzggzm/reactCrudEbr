@@ -1,0 +1,262 @@
+{
+  "todos": [
+    {
+      "id": "78652",
+      "title": "check your to do list",
+      "status": "important",
+      "date": "2024-03-13T21:38:58.218Z",
+      "updatedTodo": {
+        "title": "important 445255",
+        "status": "important"
+      }
+    },
+    {
+      "id": "1a636ef1-6bc3-4697-b6fd-2c0fa6543cf3",
+      "title": "daily",
+      "status": "important",
+      "date": "2024-03-13T21:39:13.088Z"
+    },
+    {
+      "id": "0ba258c4-47c3-4c6d-82e7-37452f036f50",
+      "title": "review your lessons",
+      "status": "important",
+      "date": "2024-03-13T11:14:46.029Z"
+    },
+    {
+      "id": "55ef43db-eb6c-4871-a7f5-ca373fb51cff",
+      "title": "Learn JS",
+      "status": "important",
+      "date": "2024-03-14T08:40:12.284Z"
+    },
+    {
+      "id": "96516077-f9ef-4b68-8f9a-2cdb8805d717",
+      "title": "to do ekle",
+      "status": "daily",
+      "date": "2024-03-14T08:40:59.802Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com",
+      "age": 30,
+      "gender": "male",
+      "address": {
+        "street": "123 Main Street",
+        "city": "Anytown",
+        "state": "CA",
+        "zipcode": "12345",
+        "country": "USA"
+      },
+      "status": "active",
+      "preferences": {
+        "theme": "dark",
+        "language": "en",
+        "notifications": true
+      }
+    },
+    {
+      "id": "2",
+      "firstName": "Alice",
+      "lastName": "Smith",
+      "email": "alice.smith@example.com",
+      "age": 25,
+      "gender": "female",
+      "address": {
+        "street": "456 Oak Avenue",
+        "city": "Sometown",
+        "state": "NY",
+        "zipcode": "54321",
+        "country": "USA"
+      },
+      "status": "inactive",
+      "preferences": {
+        "theme": "light",
+        "language": "en",
+        "notifications": false
+      }
+    },
+    {
+      "id": "3",
+      "firstName": "Michael",
+      "lastName": "Johnson",
+      "email": "michael.johnson@example.com",
+      "age": 35,
+      "gender": "male",
+      "address": {
+        "street": "789 Elm Street",
+        "city": "Anycity",
+        "state": "TX",
+        "zipcode": "67890",
+        "country": "USA"
+      },
+      "status": "active",
+      "preferences": {
+        "theme": "dark",
+        "language": "en",
+        "notifications": true
+      }
+    },
+    {
+      "id": "4",
+      "firstName": "Emily",
+      "lastName": "Brown",
+      "email": "emily.brown@example.com",
+      "age": 28,
+      "gender": "female",
+      "address": {
+        "street": "321 Pine Street",
+        "city": "Somecity",
+        "state": "FL",
+        "zipcode": "98765",
+        "country": "USA"
+      },
+      "status": "active",
+      "preferences": {
+        "theme": "light",
+        "language": "en",
+        "notifications": false
+      }
+    },
+    {
+      "id": "5",
+      "firstName": "David",
+      "lastName": "Wilson",
+      "email": "david.wilson@example.com",
+      "age": 40,
+      "gender": "male",
+      "address": {
+        "street": "567 Cedar Street",
+        "city": "Anothercity",
+        "state": "WA",
+        "zipcode": "54321",
+        "country": "USA"
+      },
+      "status": "inactive",
+      "preferences": {
+        "theme": "dark",
+        "language": "en",
+        "notifications": true
+      }
+    },
+    {
+      "id": "6",
+      "firstName": "Sophia",
+      "lastName": "Martinez",
+      "email": "sophia.martinez@example.com",
+      "age": 32,
+      "gender": "female",
+      "address": {
+        "street": "987 Willow Street",
+        "city": "Yetanothercity",
+        "state": "IL",
+        "zipcode": "45678",
+        "country": "USA"
+      },
+      "status": "active",
+      "preferences": {
+        "theme": "light",
+        "language": "en",
+        "notifications": false
+      }
+    },
+    {
+      "id": "7",
+      "firstName": "James",
+      "lastName": "Taylor",
+      "email": "james.taylor@example.com",
+      "age": 38,
+      "gender": "male",
+      "address": {
+        "street": "654 Oak Street",
+        "city": "Lastcity",
+        "state": "OR",
+        "zipcode": "87654",
+        "country": "USA"
+      },
+      "status": "inactive",
+      "preferences": {
+        "theme": "dark",
+        "language": "en",
+        "notifications": true
+      }
+    },
+    {
+      "id": "8",
+      "firstName": "Olivia",
+      "lastName": "Anderson",
+      "email": "olivia.anderson@example.com",
+      "age": 27,
+      "gender": "female",
+      "address": {
+        "street": "210 Maple Street",
+        "city": "Maplecity",
+        "state": "GA",
+        "zipcode": "23456",
+        "country": "USA"
+      },
+      "status": "active",
+      "preferences": {
+        "theme": "light",
+        "language": "en",
+        "notifications": false
+      }
+    },
+    {
+      "id": "9",
+      "firstName": "William",
+      "lastName": "Thomas",
+      "email": "william.thomas@example.com",
+      "age": 45,
+      "gender": "male",
+      "address": {
+        "street": "543 Elm Street",
+        "city": "Elmcity",
+        "state": "OH",
+        "zipcode": "76543",
+        "country": "USA"
+      },
+      "status": "inactive",
+      "preferences": {
+        "theme": "dark",
+        "language": "en",
+        "notifications": true
+      }
+    },
+    {
+      "id": "10",
+      "firstName": "Emma",
+      "lastName": "Jones",
+      "email": "emma.jones@example.com",
+      "age": 31,
+      "gender": "female",
+      "address": {
+        "street": "876 Pine Street",
+        "city": "Pinecity",
+        "state": "MN",
+        "zipcode": "34567",
+        "country": "USA"
+      },
+      "status": "active",
+      "preferences": {
+        "theme": "light",
+        "language": "en",
+        "notifications": false
+      }
+    }
+  ],
+  "activity": [
+    {
+      "id": "45168",
+      "info": "hesap kapandı",
+      "date": "10/30/2024"
+    },
+    {
+      "id": "1001",
+      "info": "Hesap admin tarafından  donduruldu.",
+      "date": "03/03/2024"
+    }
+  ]
+}
